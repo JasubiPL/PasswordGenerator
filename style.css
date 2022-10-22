@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "ubisoft";
+    src: url("Ubisoft.otf");
+    
+}
+
+@font-face {
+    font-family: "logo";
+    src: url("logo.ttf");
+    
+}
+
+.logo{
+    font-family: logo;
+}
+
+.titulos{
+    font-family: ubisoft;
+    font-weight: bolder;
+}
